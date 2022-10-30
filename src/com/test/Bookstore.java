@@ -1,7 +1,7 @@
 package com.test;
 
 class Bookstore {
-// test merge
+
 	public static Categories categories;
 
 // Define this recursive function
@@ -33,7 +33,6 @@ class Bookstore {
 		int numberOfBooks = countBooks(Bookstore.categories);
 		System.out.println("The bookstore has " + numberOfBooks + " books");
 	}
-
 }
 
 
