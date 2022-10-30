@@ -33,6 +33,6 @@ class Bookstore {
 		int numberOfBooks = countBooks(Bookstore.categories);
 		System.out.println("The bookstore has " + numberOfBooks + " books");
 	}
-//git test change
+//git test change SUBLIME 2 3
 }
 
