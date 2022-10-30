@@ -1,7 +1,7 @@
 package com.test;
 
 class Bookstore {
-
+// test merge
 	public static Categories categories;
 
 // Define this recursive function
