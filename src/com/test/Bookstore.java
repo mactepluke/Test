@@ -13,7 +13,7 @@ class Bookstore {
 		}
 		return c;
 	}
-// D
+
 	public static void main(String[] args) {
 // Call this recursive function
 		Category c1 = new Category();
@@ -33,9 +33,7 @@ class Bookstore {
 		int numberOfBooks = countBooks(Bookstore.categories);
 		System.out.println("The bookstore has " + numberOfBooks + " books");
 	}
-//git test change SUBLIME 2 3
-}
-// test branch SUB
 
-// ZF
+}
+
 
