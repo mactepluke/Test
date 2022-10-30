@@ -35,5 +35,3 @@ class Bookstore {
 	}
 }
 
-
-//PRE FETCH
